@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hi, I'm Adam! 👋
+
+## 🚀 About Me
+I'm a Full Stack Engineer with a passion for developing innovative software solutions. My journey in technology is driven by my curiosity and desire to solve complex problems.
+
+Here's a bit more about what I'm currently up to:
+
+- 👩‍💻 **Working On:** I'm currently dedicating my time to a project called "shakespeare-defined", aiming to bring a modern twist to Shakespeare's First Folio.
+- 🧠 **Learning:** I'm on a path to mastering Go, excited by its simplicity and performance for concurrent tasks.
+- 👯‍♀️ **Looking to Collaborate:** Keen to contribute to open source projects, particularly those involving Rust. If you're on the lookout for a collaborator who shares your enthusiasm for open source, let's connect!
+- 🤔 **Seeking Help:** If anyone knows how to fold folding fitted sheets, I'm all ears.
+- 💬 **Open to Questions:** Feel free to ask me anything about TypeScript, React, Node, Agile Development, or Systems Thinking. I'm here to share my knowledge and experiences.
+- 📫 **Contact Me:** For any inquiries or potential collaborations, you can reach me at <adamjorgejoesten@gmail.com>.
+- 😄 **Pronouns:** I go by he/they pronouns.
+- ⚡️ **Fun Fact:** I think I'm funny.
 
 <!--
-**AdamJoesten/AdamJoesten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Skills
+I specialize in the following technologies:
 
-Here are some ideas to get you started:
+- **Frontend:** TODO
+- **Backend:** TODO
+-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AdamJoesten)
+<!--
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 -->
