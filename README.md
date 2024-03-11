@@ -1,7 +1,7 @@
 # Hi, I'm Adam! 👋
 
 ## 🚀 About Me
-I'm a Full Stack Engineer with a passion for developing innovative software solutions. My journey in technology is driven by my curiosity and desire to solve complex problems.
+I'm a Full Stack Engineer with a passion for developing innovative software solutions and solving complex problems.
 
 Here's a bit more about what I'm currently up to:
 
