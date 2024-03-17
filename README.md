@@ -1,4 +1,4 @@
-# Hey, I'm Adam Joesten
+# Hi, I'm Adam Joesten 👋
 
 ## About Me
 I'm a Full Stack Engineer with a passion for developing innovative software solutions and solving complex problems.
